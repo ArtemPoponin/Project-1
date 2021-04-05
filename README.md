@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-Дефект №1: https://github.com/ArtemPoponin/Project-1/issues/1#issue-850498043
+* Дефект №1: https://github.com/ArtemPoponin/Project-1/issues/1#issue-850498043
 
 ## Описание процесса тестирования:
 
